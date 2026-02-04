@@ -56,7 +56,7 @@ Authentication & Dashboard
 ❌ JWT-based authentication
 ❌ Protected dashboard routes
 ❌ User profile APIs
-
+  
 CRUD Scope
 ❌ Full CRUD UI (Create, Read, Update, Delete) inside this project
 Note:
